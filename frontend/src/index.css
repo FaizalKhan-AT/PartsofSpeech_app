@@ -1,0 +1,8 @@
+body,.txt-area {
+    background-color: #303030 !important;
+    color: #bdc1c6 !important;
+}
+.txt-area {
+    box-shadow: none !important;
+    border: 1px solid green !important;
+}
